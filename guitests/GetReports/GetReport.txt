@@ -1,0 +1,11 @@
+Set ImageFolder "{ScriptFolder}/../images"
+Sensitivity 90
+Click "{ImageFolder}/1558440647731.png" 51 28
+Click "{ImageFolder}/1558440350947.png" 9 50
+Click "{ImageFolder}/1558517262552.png" 54 63
+Click "{ImageFolder}/1558517305933.png" 39 69
+Click "{ImageFolder}/1558517381417.png" 21 86
+Click "{ImageFolder}/1558517305933.png" 15 87
+Check "C:\Users\marin\Desktop\LaTazza\guitests\images\1558517705845.png" 4 62 232 183
+Click "{ImageFolder}/1558517705845.png" 97 5
+Click "{ImageFolder}/1558819618428.png" 94 4

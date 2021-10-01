@@ -1,0 +1,16 @@
+Call "{ScriptFolder}/CreateEmployee/CreateEmployee.txt"
+Call "{ScriptFolder}/CreateBeverage/CreateBeverage.txt"
+Call "{ScriptFolder}/RechargeAccount/RechargeEmployeeAccount.txt"
+Call "{ScriptFolder}/BuyBoxes/BuyBoxes.txt"
+Call "{ScriptFolder}/SellCapsulesToVisitor/BuyVisitor.txt"
+Call "{ScriptFolder}/SellCapsulesToEmployeeCash/BuyNoAccountEmployee.txt"
+Call "{ScriptFolder}/SellCapsulesToEmployeeAccount/BuyAccountEmployee.txt"
+Call "{ScriptFolder}/UpdateBeverage/UpdateBeverage.txt"
+Call "{ScriptFolder}/UpdateEmployee/UpdateEmployee.txt"
+Call "{ScriptFolder}/GetReportEmployee/GetEmployeeReport.txt"
+Call "{ScriptFolder}/GetReports/GetReport.txt"
+Set ImageFolder "{ScriptFolder}/images"
+Sensitivity 90
+Click "{ImageFolder}/1558440647731.png" 51 28
+Click "{ImageFolder}/1558440350947.png" 9 50
+Click "{ImageFolder}/1558517262552.png" 61 88

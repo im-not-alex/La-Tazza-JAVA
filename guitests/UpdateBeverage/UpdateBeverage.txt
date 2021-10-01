@@ -1,0 +1,10 @@
+Set ImageFolder "{ScriptFolder}/../images"
+Sensitivity 90
+Click "{ImageFolder}/1558440647731.png" 50 38
+Click "{ImageFolder}/1558440350947.png" 51 50
+Click "{ImageFolder}/1558440374809.png" 61 66
+Click "{ImageFolder}/1558516217501.png" 32 21
+DoubleClick "{ImageFolder}/1558516615487.png" 55 66
+Type 15
+Click "{ImageFolder}/1558516615487.png" 65 92
+Click "{ImageFolder}/1558736421221.png" 92 12

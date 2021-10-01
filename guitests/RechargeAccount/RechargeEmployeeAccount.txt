@@ -1,0 +1,11 @@
+Set ImageFolder "{ScriptFolder}/../images"
+Sensitivity 90
+Click "{ImageFolder}/1558440647731.png" 52 18
+Click "{ImageFolder}/1558442705001.png" 40 55
+Sleep 500
+Type 100
+Click "{ImageFolder}/1558442705001.png" 19 82
+Sleep 500
+Type "[ENTER]"
+Check "{ImageFolder}/1558442862044.png" 0 0 217 66
+
